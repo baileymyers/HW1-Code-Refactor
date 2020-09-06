@@ -23,7 +23,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [License](#license)
@@ -35,13 +34,6 @@
 ## About The Project
 
 Horiseon Code Refactor is Homework 1 for UW Coding Bootcamp. The objective for this assignment was to take the existing HTML file and refactor it to make it more semantic, without changing how the page displayed.
-
-### Built With
-
-* [HTML5](HTML5)
-* [CSS](CSS)
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
