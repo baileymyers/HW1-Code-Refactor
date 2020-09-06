@@ -57,6 +57,6 @@ git clone git@github.com:baileymyers/HW1-Code-Refactor.git
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@nothisisbilly](https://twitter.com/nothisisbilly) - baileymyers96@gmail.com
+Bailey Myers - [@nothisisbilly](https://twitter.com/nothisisbilly) - baileymyers96@gmail.com
 
 Project Link: [https://github.com/baileymyers/HW1-Code-Refactor](https://github.com/baileymyers/HW1-Code-Refactor)
