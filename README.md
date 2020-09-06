@@ -4,4 +4,6 @@ Horiseon Code Refactor is Homework 1 for UW Coding Bootcamp. The objective for t
 
 All changes to the original code are documented in notes in the index.thml and style.css files.
 
+I generated a Lighthouse report, which is found within Assets/Lighthouse.
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
