@@ -38,8 +38,8 @@ Horiseon Code Refactor is Homework 1 for UW Coding Bootcamp. The objective for t
 
 ### Built With
 
-* [](HTML5)
-* [](CSS)
+* [HTML5](HTML5)
+* [CSS](CSS)
 
 
 
